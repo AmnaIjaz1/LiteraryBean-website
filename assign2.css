@@ -168,7 +168,6 @@ a:link {
       font-size:xx-small;
     }
     .flex{
-      max-width: 100%;
       font-size:xx-small;
       margin:auto;
     }
@@ -189,7 +188,6 @@ a:link {
       font-size:x-small;
     }
     .flex{
-      max-width: 100%;
       font-size:x-small;
       margin:auto;
     }
@@ -231,7 +229,6 @@ a:link {
       font-size: medium;
     }
     .flex{
-      max-width: 100%;
       font-size: medium;
       margin:auto;
     }
