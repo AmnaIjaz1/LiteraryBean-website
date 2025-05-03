@@ -122,7 +122,7 @@ a:link {
     display: flex;
     flex-direction: column;
     align-content: center;
-     flex-wrap: nowrap;
+    flex-wrap: wrap;
     gap: 20px;
     max-height: 100vh;
    
