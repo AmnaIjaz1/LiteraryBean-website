@@ -123,6 +123,7 @@ a:link {
     flex-wrap: wrap;
     max-width:auto;
     max-height:auto;
+    align-items:center;
     align-content: center;
     gap:20px;
    
