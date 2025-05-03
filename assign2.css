@@ -169,6 +169,7 @@ a:link {
     .flex{
       max-width: 100%;
       font-size:xx-small;
+      margin:auto;
     }
   }
   
@@ -189,6 +190,7 @@ a:link {
     .flex{
       max-width: 100%;
       font-size:x-small;
+      margin:auto;
     }
   }
   
@@ -196,7 +198,20 @@ a:link {
     .img {
       max-width: 100%;
       margin: auto;
-      font-size:small;
+     font-size: medium;
+    }
+        .container{
+      max-width: 100%;
+      font-size: medium;
+    }
+    .contactpage{
+      max-width: 100%;
+      font-size: medium;
+    }
+    .flex{
+      max-width: 100%;
+      font-size: medium;
+      margin:auto;
     }
   }
 
@@ -217,6 +232,7 @@ a:link {
     .flex{
       max-width: 100%;
       font-size: medium;
+      margin:auto;
     }
   }
 
