@@ -71,7 +71,7 @@ align-items: center;
     background-position:center; 
     background-color: rgba(196, 164, 132);
     color:black;
-    height: 100vh;
+    height: 100%;
   }
 .header{
     border-radius: 10px;
@@ -118,12 +118,13 @@ a:link {
   color:black;}
   
  .flex{
-    display:flex;
-    flex-direction:column;
+    display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
     align-content: center;
-    gap:20px;
-    max-height:100vh;
+    gap: 20px;
+    max-height: 100vh;
+    width: 100%;
    
  }
  .item{
