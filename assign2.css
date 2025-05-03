@@ -150,7 +150,6 @@ a:link {
   @media (max-width: 600px) {
     .img {
       max-width: 600px;
-      margin: auto;
       font-size:xx-small;
     
     }
@@ -159,7 +158,6 @@ a:link {
   @media (min-width: 768px) {
     .img {
       max-width: 768px;
-      margin: auto;
       font-size:x-small;
     }
   }
@@ -167,7 +165,6 @@ a:link {
   @media (min-width: 1024px) {
     .img {
       max-width: 1024px;
-      margin: auto;
       font-size:small;
     }
   }
@@ -175,7 +172,6 @@ a:link {
   @media (min-width: 1280px) {
     .img {
       max-width: 1280px;
-      margin: auto;
       font-size: medium;
     }
   }
