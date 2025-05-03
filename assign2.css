@@ -140,7 +140,7 @@ a:link {
  grid-template-rows: 350px 300px;
  justify-content: center;
  gap:20px;
- height:100%;
+ height:100vh;
  }
 .flex h2{
   color:rgb(226, 201, 101);
