@@ -117,13 +117,12 @@ align-items: center;
 a:link {
   color:black;}
   
-  .flex{
+ .flex{
     display:flex;
     flex-direction:column;
     flex-wrap: wrap;
     align-content: center;
     gap:20px;
-      max-width:100vh;
    
  }
  .item{
