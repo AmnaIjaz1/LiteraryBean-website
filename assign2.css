@@ -121,7 +121,7 @@ a:link {
     display:flex;
     flex-direction:column;
     flex-wrap: wrap;
-
+    height: 100%;
     align-content: center;
     gap:20px;
    
@@ -130,7 +130,7 @@ a:link {
 
   border-style: groove;
   border-color: rgb(201, 161, 113);
-  padding: 20px;
+  padding: 1.5rem;
   font-size: larger;
  }
 
