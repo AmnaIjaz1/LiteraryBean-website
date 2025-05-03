@@ -151,8 +151,20 @@ a:link {
     .img {
       max-width: 100%;
       margin: auto;
-      font-size:small;
+      font-size:xx-small;
     
+    }
+    .container{
+      max-width: 100%;
+      font-size:xx-small;
+    }
+    .contactpage{
+      max-width: 100%;
+      font-size:xx-small;
+    }
+    .flex{
+      max-width: 100%;
+      font-size:xx-small;
     }
   }
   
@@ -160,7 +172,19 @@ a:link {
     .img {
       max-width: 100%;
       margin: auto;
-      font-size:small;
+      font-size:x-small;
+    }
+    .container{
+      max-width: 100%;
+      font-size:x-small;
+    }
+    .contactpage{
+      max-width: 100%;
+      font-size:x-small;
+    }
+    .flex{
+      max-width: 100%;
+      font-size:x-small;
     }
   }
   
@@ -176,6 +200,18 @@ a:link {
     .img {
       max-width: 100%;
       margin: auto;
+      font-size: medium;
+    }
+    .container{
+      max-width: 100%;
+      font-size: medium;
+    }
+    .contactpage{
+      max-width: 100%;
+      font-size: medium;
+    }
+    .flex{
+      max-width: 100%;
       font-size: medium;
     }
   }
