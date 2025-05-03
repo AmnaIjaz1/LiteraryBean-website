@@ -119,10 +119,11 @@ a:link {
   
   .flex{
     display:flex;
-    flex-direction:column;
+    flex-direction:row;
     flex-wrap: wrap;
     align-content: center;
     gap:20px;
+    height:100vh;
    
  }
  .item{
