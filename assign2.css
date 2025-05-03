@@ -121,7 +121,8 @@ a:link {
     display:flex;
     flex-direction:column;
     flex-wrap: wrap;
-    height: 100%;
+    max-width:auto;
+    max-height:auto;
     align-content: center;
     gap:20px;
    
