@@ -17,6 +17,7 @@ color:whitesmoke;
  border-style: groove;
  border-color: rgb(201, 161, 113);
  margin: 10px;
+ font-size: larger;
 }
 .welcome{
 grid-area: main;
@@ -25,8 +26,8 @@ text-align: center;
 border-style: groove;
 border-color: rgb(201, 161, 113);
 margin: 10px;
-font-size: large;
 font-weight: bold;
+font-size: larger;
 
 }
 
@@ -36,7 +37,7 @@ padding: 10px;
 border-style: groove;
 border-color:  rgb(201, 161, 113);
 margin: 10px;
-
+font-size: larger;
 }
 .Features>h3{
    justify-self: center;
@@ -59,6 +60,7 @@ padding: 10px;
 border-style: groove;
 border-color:  rgb(201, 161, 113);
 margin: 10px;
+font-size: larger;
 align-items: center;
 
 }
@@ -124,7 +126,7 @@ a:link {
     align-content: center;
     gap:20px;
     margin:30px;
-   
+   font-size: larger;
  }
  .item{
 
@@ -145,6 +147,7 @@ a:link {
  gap:20px;
  margin: 40px;
  height: 100vh;
+ font-size: larger;
 
  }
 .flex h2{
