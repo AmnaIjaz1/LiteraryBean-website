@@ -1,4 +1,20 @@
-.container{
+
+
+ .fullbody{
+    height: 100%;
+    margin: 0; 
+    padding: 0;
+  }
+    .menuimg{
+    background-image: url('cafe.png');
+    background-size: cover;      
+    background-repeat: no-repeat; 
+    background-position:center; 
+    background-color: rgba(196, 164, 132);
+    color:black;
+}
+
+    .container{
     display:grid;
     grid-template-areas:
     "header header"
@@ -73,6 +89,7 @@ align-items: center;
     color:black;
     height: 100%;
     box-sizing:border-box;
+   
   }
 .header{
     border-radius: 10px;
@@ -81,6 +98,7 @@ align-items: center;
     margin-top: 10px;
     font-size: large;
     background-color:rgba(190, 141, 81, 0.705);
+
  
 }
 .button{
@@ -122,13 +140,14 @@ a:link {
   .flex{
     display:flex;
     flex-direction:column;
-    flex-wrap: wrap;
+    flex-wrap:nowrap;
     align-items:center;
     align-content: center;
     gap:20px;
     margin:30px;
    font-size: larger;
  }
+
  .item{
 
   border-style: groove;
@@ -162,6 +181,7 @@ a:link {
 
   @media (max-width: 600px) 
   {
+   
     .img {
       max-width: 100%;
       height: 100vh;
