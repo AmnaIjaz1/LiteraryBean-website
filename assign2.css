@@ -1,20 +1,6 @@
 
 
- .fullbody{
-    height: 100%;
-    margin: 0; 
-    padding: 0;
-  }
-    .menuimg{
-    background-image: url('cafe.png');
-    background-size: cover;      
-    background-repeat: no-repeat; 
-    background-position:center; 
-    background-color: rgba(196, 164, 132);
-    color:black;
-}
-
-    .container{
+.container{
     display:grid;
     grid-template-areas:
     "header header"
